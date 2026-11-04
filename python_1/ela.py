@@ -21,3 +21,5 @@ while True:
     show_page("POLITICS", "With just two weeks until the November 3, 2026, midterm elections, Al Jazeera reports that the political landscape is dominated by heavy campaigning as Democrats hold a significant polling lead over Republicans amid widespread voter frustration regarding the economy, inflation, and the ongoing war in Iran.", "next")
 
     show_page("SPORTS", "Major League Baseball has set up a historic, all-indoor World Series matchup between the Tampa Bay Rays and the Milwaukee Brewers, guaranteeing a first-time champion for either franchise. Meanwhile, the NBA season has officially tipped off today with a reloaded landscape, while European Champions League soccer is in full swing with major mid-week group stage fixtures.", "return")
+
+    #hello!
