@@ -23,3 +23,4 @@ while True:
     show_page("SPORTS", "Major League Baseball has set up a historic, all-indoor World Series matchup between the Tampa Bay Rays and the Milwaukee Brewers, guaranteeing a first-time champion for either franchise. Meanwhile, the NBA season has officially tipped off today with a reloaded landscape, while European Champions League soccer is in full swing with major mid-week group stage fixtures.", "return")
 
     #hello!
+    #yeah this is another change because of quick fire in DAE
