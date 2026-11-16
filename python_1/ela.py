@@ -1,4 +1,4 @@
-title=({"WAR"})
+title="WAR"
 topic=("International News")
 def show_page(title, description, button):
 #this is the only function
